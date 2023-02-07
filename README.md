@@ -2,7 +2,9 @@
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
-[Vite](https://vitejs.dev/) My project is on civil disobedience also known as protesting.
+[Vite](https://vitejs.dev/) My project is on civil disobedience also known as protesting.  Inside the protest: What peaceful George Floyd protesters are ...
+https://www.history.com/tag/protests
+
 
 Using the two in conjunction is one of the fastest ways to build a web app.
 
